@@ -44,7 +44,4 @@ Upon running the application (`StudentManagementSystem.java`), a menu will displ
   - Must contain '@' and '.' to be considered valid.
   - Error message: "Invalid email. Please enter a valid email address."
 
-- **General Error Handling**:
-  - SQL exceptions are caught and displayed to the user with relevant messages.
-  - Input mismatch exceptions are handled to prompt the user for correct input types.
 
